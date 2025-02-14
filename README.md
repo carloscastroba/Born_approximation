@@ -19,3 +19,7 @@ The list of programs for the iterative algorithm are:
 - Iterative_method_step.jl (compute the different iterations for step potential)
 - Figure_iter.jl (From the data files created by the previous two programs 
   generates graphics with an error comparison)
+$$
+  a=e^{i\pi x}
+$$
+![Ejemplo](images/dibujo.png)
